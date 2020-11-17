@@ -11,4 +11,4 @@ MappingCovidObits.R - script in R that perform the analysis.
 
 casos_full.csv - the dataset containing the number of deaths by city per day. (>25MB - download it at https://brasil.io/dataset/covid19/caso_full/)
 
-MappingCovidObits.html - the report containing the code and comments about the analysis.
+[MappingCovidObits.html](https://rpubs.com/natmurad/mapcovid) - the report containing the code and comments about the analysis.
