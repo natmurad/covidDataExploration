@@ -10,6 +10,6 @@ casos_full.csv - the dataset containing the number of deaths by city per day. (>
 
 [MappingCovidObits.html](https://rpubs.com/natmurad/mapcovid) - the report containing the code and comments about the analysis.
 
-### Extract, Transfor & Load Covid Data with pandas & pandera
+### Extract, Transform & Load Covid Data with pandas & pandera
 
 [ETLCovidData](https://github.com/natmurad/covidDataExploration/blob/main/ETLCovidData.ipynb) - Notebook with a pipeline to prepare and filter Covid-19 Data from [CSSEGI Sand Data Github](https://github.com/CSSEGISandData/COVID-19) in real time.
