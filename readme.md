@@ -13,3 +13,9 @@ casos_full.csv - the dataset containing the number of deaths by city per day. (>
 ### Extract, Transform & Load Covid Data with pandas & pandera
 
 [ETLCovidData](https://github.com/natmurad/covidDataExploration/blob/main/ETLCovidData.ipynb) - Notebook with a pipeline to prepare and filter Covid-19 Data from [CSSEGI Sand Data Github](https://github.com/CSSEGISandData/COVID-19) in real time.
+
+### Machine Learning Analysis with ARIMA & prophet
+
+[ARIMA & prophet predictions](https://github.com/natmurad/covidDataExploration/blob/main/COVID19MLAnalysis1.ipynb) -  Some exploration of the data; predictions with models ARIMA & prophet; mobile mean.
+
+[COVID19MLAnalysis.html](https://github.com/natmurad/covidDataExploration/blob/main/COVID19MLAnalysis.html) - Contains the [html report](https://rpubs.com/natmurad/covidarimaprophet)
